@@ -1,0 +1,4 @@
+[
+    { "id": 1, "name": "Spring Sale", "budget": 1000, "leadsGenerated": 120 },
+    { "id": 2, "name": "Winter Promo", "budget": 1500, "leadsGenerated": 200 }
+]
